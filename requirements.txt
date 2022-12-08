@@ -3,7 +3,7 @@ beautifulsoup4==4.5.3
 blaze==0.10.1
 blinker==1.4
 boto==2.45.0
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==2.3.0
 chest==0.2.3
